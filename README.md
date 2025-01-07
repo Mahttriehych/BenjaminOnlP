@@ -2,7 +2,7 @@
   <img src="ss.png" alt="Flexx Richie Banner"/>
 </div>
 
-# BenjaminOnIP Post Automated BOT
+# BenjaminOnlP Post Automated BOT
 
 An automated Twitter bot that generates and posts content about IP technology, AI advancement, and STORY platform updates using the Gemini AI API.
 
@@ -31,7 +31,8 @@ An automated Twitter bot that generates and posts content about IP technology, A
 3. Clone or download this repository
 4. Navigate to the project directory:
    ```bash
-   cd benjaminonip
+   git clone https://github.com/Fl3xxRichie/BenjaminOnlP.git
+   cd BenjaminOnlP
    npm install
    ```
 
@@ -43,7 +44,8 @@ An automated Twitter bot that generates and posts content about IP technology, A
    ```
 2. Navigate to project directory:
    ```bash
-   cd benjaminonip
+   git clone https://github.com/Fl3xxRichie/BenjaminOnlP.git
+   cd BenjaminOnlP
    npm install
    ```
 
@@ -63,7 +65,8 @@ An automated Twitter bot that generates and posts content about IP technology, A
    ```
 2. Navigate to project directory and install dependencies:
    ```bash
-   cd benjaminonip
+   git clone https://github.com/Fl3xxRichie/BenjaminOnlP.git
+   cd BenjaminOnlP
    npm install
    ```
 
@@ -79,7 +82,8 @@ An automated Twitter bot that generates and posts content about IP technology, A
    ```
 3. Navigate to project directory:
    ```bash
-   cd benjaminonip
+   git clone https://github.com/Fl3xxRichie/BenjaminOnlP.git
+   cd BenjaminOnlP
    npm install
    ```
 
@@ -130,7 +134,7 @@ export const config = {
   },
   maxDailyPosts: 25,
   tags: {
-    required: ['@BenjaminonIP'],
+    required: ['@BenjaminOnlP'],
     optional: ['#IPTech', '#AI', '#STORY']
   }
 };
